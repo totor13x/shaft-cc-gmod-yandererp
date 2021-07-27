@@ -1,1 +1,2 @@
-# shaft-cc-gmod-yandererp
+# Информация
+Игровой режим YandereRP для Garry`s mod был написан [Maxmol](https://github.com/maxmol) и выкуплен мною. Репозиторий представляет собой дамп кода, собирать все воедино придется самим. Распространяется под лиценцией GNU General Public License v3.0.
